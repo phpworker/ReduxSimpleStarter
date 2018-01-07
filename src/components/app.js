@@ -1,9 +1,4 @@
 /**
- * Redux:
- * Redux creates a state objects that contains our books
- * and then maps that state as props to our component
- * container is normal React component that gets bounded to application state.
- * whenever the application state changes the container will re-render as well.
  * Actions:
  *
  */
